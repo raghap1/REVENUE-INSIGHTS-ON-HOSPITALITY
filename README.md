@@ -52,7 +52,7 @@ ________________________________________
 Power BI – Data cleaning, Dashboard creation and visualization.
 ________________________________________
 ## Impact
-
+Identified revenue leaks using KPIs; recommended dynamic pricing, experience upgrades, and channel strategies — projected revenue uplift: +15–25%.
 
 
 
