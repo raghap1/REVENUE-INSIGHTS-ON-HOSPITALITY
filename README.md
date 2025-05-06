@@ -37,8 +37,15 @@ ________________________________________
 
 ## Insights & Recommendations
 
+| # | Insight | Recommendation | Impact Potential |
+|--|---------|----------------|------------------|
+| 1 | **Static ADR across all hotels** despite demand shifts | Adopt **dynamic pricing** by season, weekday/weekend, and local events | +10–15% ADR / RevPAR |
+| 2 | **Luxury rooms bring highest revenue** despite fewer rooms | Upsell luxury with **tiered packages & loyalty perks** | +8–12% per booking |
+| 3 | **Delhi: High occupancy (65%) & rating (3.8)** but low revenue, with **~25% cancellations** | Enable dynamic pricing + use **smart cancellation policies** | +20–25% revenue, -10% cancellations |
+| 4 | **Direct offline bookings low**, possibly due to **highest ADR** | Keep price; offer **bundled perks** (meals, late checkout) | +15–20% conversion |
+| 5 | **Atliq Seasons Mumbai:** Low occupancy (44%), rating (2.2), but ₹66M revenue | Improve experience with **customization & local services** | +10–15% occupancy/rating |
+| 6 | **Room utilization only 46% (24/52 rooms used daily)** | Use **forecasting + last-minute OTA promos** | +10% room usage = direct revenue gain |
 
-- Recommendations:
 	
 ________________________________________
 ## Tools Used
